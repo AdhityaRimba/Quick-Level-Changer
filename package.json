@@ -3,7 +3,7 @@
 	"author": "MrAdhit",
 	"desc": "Quick Level Changer Description",
 	"version": "v1.0.0",
-	"logo": "",
+	"logo": "https://dummyimage.com/200x200/000/fff&text=Teardown+Mod+List",
 	"type": "script",
 	"files": [
 		"data/ui/hud.lua",
