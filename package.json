@@ -1,0 +1,13 @@
+{
+	"title": "Quick Level Changer",
+	"author": "MrAdhit",
+	"desc": "Quick Level Changer Description",
+	"version": "v1.0.0",
+	"logo": "",
+	"type": "script",
+	"files": [
+		"data/ui/hud.lua",
+		"data/ui/level.lua",
+		"data/ui/common/nothing.png"
+	]
+}
